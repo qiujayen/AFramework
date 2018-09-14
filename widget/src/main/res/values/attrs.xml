@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="width_radio" format="float" />
+    <attr name="height_radio" format="float" />
+    <attr name="fixed" format="enum">
+        <enum name="width" value="0" />
+        <enum name="height" value="1" />
+    </attr>
+
+    <declare-styleable name="RatioLayout">
+        <attr name="width_radio" />
+        <attr name="height_radio" />
+        <attr name="fixed" />
+    </declare-styleable>
+
+    <declare-styleable name="RatioImageView">
+        <attr name="width_radio" />
+        <attr name="height_radio" />
+        <attr name="fixed" />
+    </declare-styleable>
+
+
+    <attr name="round_radius" format="dimension" />
+    <attr name="round_solid_color" format="color" />
+    <attr name="round_stroke_width" format="dimension" />
+    <attr name="round_stroke_color" format="color" />
+
+    <declare-styleable name="RadiusCompatButton">
+        <attr name="round_radius" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundButton">
+        <attr name="round_radius" />
+        <attr name="round_solid_color" />
+        <attr name="round_stroke_width" />
+        <attr name="round_stroke_color" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundBackgroundHelper">
+        <attr name="round_radius" />
+        <attr name="round_solid_color" />
+        <attr name="round_stroke_width" />
+        <attr name="round_stroke_color" />
+    </declare-styleable>
+
+</resources>
