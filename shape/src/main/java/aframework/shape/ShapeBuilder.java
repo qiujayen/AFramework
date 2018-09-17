@@ -5,7 +5,10 @@ package aframework.shape;
  *
  * @author Jay
  */
-public class ShapeFactory {
+public class ShapeBuilder {
 
 
+    public ShapeBuilder() {
+
+    }
 }

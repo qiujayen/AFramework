@@ -1,4 +1,4 @@
-include ':core', ':shape'
+include ':core', ':shape', ':demo'
 include ':common'
 include ':utils'
 include ':widget'
