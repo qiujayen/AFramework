@@ -14,13 +14,6 @@
         <attr name="fixed" />
     </declare-styleable>
 
-    <declare-styleable name="RatioImageView">
-        <attr name="width_radio" />
-        <attr name="height_radio" />
-        <attr name="fixed" />
-    </declare-styleable>
-
-
     <attr name="round_radius" format="dimension" />
     <attr name="round_solid_color" format="color" />
     <attr name="round_stroke_width" format="dimension" />
